@@ -1,8 +1,7 @@
 # DBMS- Semester Notes 
 
 ## Unit 1
-
-
+Introduction to DB
 
 ## Unit 2
 
